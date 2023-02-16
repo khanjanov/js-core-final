@@ -202,7 +202,8 @@
 
 //! 11. Daxil olunan  stiringin ilk hərfini böyüyə çevir
 // let a = prompt("enter a word");
-// a[0].charAt(0).toUpperCase() + a.slice(1);
+// let b = a.charAt(0).toUpperCase() + a.slice(1);
+// console.log(`${b}`);
 
 //! 7. Verilən ədəddən sonraki ilk sade ədədi tapin
 // let a = prompt("enter a number");
@@ -224,7 +225,7 @@
 // nPrimeNum(a);
 
 //! 16. ES6 ve ondan sonrakilar nədir?
-// array metodları map, filter; let 
+// array metodları map, filter; let
 
 //! 25. Hansı method arrayı string’e çevirir?
 //join()
